@@ -1,0 +1,10 @@
+.settings/
+
+*.vpp..*
+
+.metadata/
+
+RemoteSystemsTempFiles/
+
+.project
+.cproject
